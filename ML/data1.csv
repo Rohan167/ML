@@ -1,0 +1,15 @@
+SL_NO,AGE,INCOME,STUDENT,CREDIT RATING ,Outcome
+1,Youth,High,No,Fair,No
+2,Youth,High,No,Excellent,No
+3,MA,High,No,Fair,Yes
+4,OA,Medium,No,Fair,Yes
+5,OA,Low,Yes,Fair,Yes
+6,OA,Low,Yes,Excellent,No
+7,MA,Low,Yes,Excellent,Yes
+8,Youth,Medium,No,Fair,No
+9,Youth,Low,Yes,Fair,Yes
+10,OA,Medium,Yes,Fair,Yes
+11,Youth,Medium,Yes,Excellent,Yes
+12,MA,Medium,No,Excellent,Yes
+13,MA,High,Yes,Fair,Yes
+14,OA,Medium,No,Excellent,No
